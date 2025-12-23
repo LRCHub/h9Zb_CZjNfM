@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "明け星",
+  "base_artist": "レモネードファクトリー",
+  "createdAt": "2025-12-23T04:06:15.240792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明け星",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/01_明け星_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明け星",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_明け星_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "明け星",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_明け星_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "明け星",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/04_明け星_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "明け星 - Akeboshi",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_明け星_-_Akeboshi_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "明け星",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/06_明け星_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "37.明け星",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/07_37.明け星_LiSA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明け星",
+      "artist": "レモネードファクトリー",
+      "has_synced": false,
+      "path": "select/pl_01_明け星_レモネードファクトリー.txt"
+    }
+  ]
+}
